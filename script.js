@@ -17,6 +17,12 @@ const songsList = [
         src: "assets/3.mp3",
         cover: "assets/3.png"
     }
+    {
+        name: "EDM",
+        artist: "EDM + Mix ✥ 10...10000000..",
+        src: "assets/4.mp3",
+        cover: "assets/3.png"
+    }
 ];
 
 const artistName = document.querySelector('.artist-name');
