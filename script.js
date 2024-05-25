@@ -16,7 +16,7 @@ const songsList = [
         artist: "Hypnotized",
         src: "assets/3.mp3",
         cover: "assets/3.png"
-    }
+    },
     {
         name: "EDM",
         artist: "EDM + Mix ✥ 10...10000000..",
